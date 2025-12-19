@@ -1,1 +1,2 @@
-Working with git and gihtub 
+Week2: DevOps Lab Working with git and gihtub 
+
